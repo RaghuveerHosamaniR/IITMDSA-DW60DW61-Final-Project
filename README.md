@@ -1,2 +1,11 @@
 # IITMDSA-DW60DW61-Final-Project
 Analyzing sentiments on Twitter, evaluating course ratings on Guvi, and Instagram influencers' impact. Harnessing NLP, ML, and statistical analysis to glean insights into public opinion, course popularity, and social media influence, respectively.
+
+**PROJECT-1: Twitter Sentiment Analysis**
+This project focuses on analyzing the sentiments expressed in tweets from the social networking platform Twitter. The dataset comprises 1,600,000 labeled tweets annotated with sentiment (negative, neutral, positive). Utilizing natural language processing (NLP) techniques, sentiment analysis models were developed to classify tweets based on their polarity. Techniques such as tokenization, feature extraction, and machine learning algorithms were employed to process and analyze the textual data. The project aims to provide insights into public sentiment trends on Twitter, enabling better understanding and decision-making for various applications.
+
+P**ROJECT-2: Ratings of Guvi Courses**
+This project aims to analyze and evaluate the ratings of courses offered by Guvi, a learning platform. The dataset contains information about course ratings, user reviews, and other relevant attributes. Through exploratory data analysis (EDA) and statistical analysis, key insights into course popularity, user satisfaction, and areas for improvement were derived. Additionally, machine learning techniques may have been employed to predict course ratings based on various features. The project aims to provide actionable insights to Guvi administrators for enhancing course offerings and improving user experience.
+
+**PROJECT-3: Instagram Influencers**
+This project focuses on analyzing Instagram influencers' data to understand their impact and influence on the platform. The dataset includes information such as influencer rankings, follower counts, engagement rates, and other relevant metrics. Through data visualization and statistical analysis, insights into influencer demographics, geographical distribution, and performance metrics were derived. Additionally, machine learning techniques may have been applied to identify top influencers or predict engagement metrics. The project aims to provide valuable insights for marketers, brands, and influencers to optimize their strategies and improve audience engagement on Instagram.
